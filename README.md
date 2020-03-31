@@ -1,2 +1,2 @@
 # openproject2019
-membuat informasi tentang informasi, jadwal pertandingan dan hasil pertandingan  sepakbola
+membuat informasi tentang klub sepakbola, jadwal pertandingan dan hasil pertandingan  sepakbola
